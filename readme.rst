@@ -16,7 +16,7 @@
 2. Configure your base URL
   $config['base_url'] = 'http://localhost/phonebook/'; // Adjust to your local or production path
 
-3. Setup the database (application/config/database.php)
+3. Setup the database (application/config/database.php), .sql file is included in the root folder.
 
   'hostname' => 'localhost',
   'username' => 'root',
