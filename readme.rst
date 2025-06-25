@@ -27,7 +27,7 @@
 
     <IfModule mod_rewrite.c>
         RewriteEngine On
-        RewriteBase /ci3/
+        RewriteBase /phonebook/
     
         # Redirect Trailing Slashes
         RewriteCond %{REQUEST_FILENAME} !-d
